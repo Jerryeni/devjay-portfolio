@@ -7,7 +7,7 @@
 		class="flex flex-col lg:flex-row w-full justify-between items-center py-10 gap-8 relative  object-contain"
 	>
 		<div class="w-full object-fit relative">
-			<img src="/images/line2.png" class="object-cover absolute right-0 bottom-[50%]" alt="man wearing glass" />
+			<img src="/images/line2.png" class="object-cover absolute hidden md:block right-0 bottom-[50%]" alt="man wearing glass" />
 			<img src="/images/img-1.png" class="object-cover" alt="man wearing glass" />
 		</div>
 		<div class="lg:text-left text-center w-full">
@@ -30,16 +30,16 @@
 				pushing the boundaries of technology, and creating solutions that can change the world,
 				that's what we're all about!
 			</p>
-			<div class="my-12 lg:mt-6 flex flex-row space-x-6 max-lg:justify-center">
+			<div class="mt-6 lg:mt-6 flex flex-row space-x-3 lg:space-x-6 max-lg:justify-center">
 				<Button
 				  color="light"
-				  class=" px-10 rounded-full bg-text_gradient py-4 border-none gap-3 flex"
-				  >Contact me <img src="/images/arrowup2.png" alt="" /></Button
+				  class=" px-10 rounded-full bg-text_gradient py-3 lg:py-4 border-none gap-1 lg:gap-3 flex"
+				  >Contact me <img src="/images/arrowup2.png" alt="" class="w-2"/></Button
 				>
 				<Button
 				  color="light"
-				  class=" px-10 rounded-full bg-text_gradient py-4 border-clip-text border-border bg-clip-text text-transparent  gap-3 flex"
-				  >Hire me <img src="/images/arrowup.png" alt="" />
+				  class=" lg:px-10 px-6 rounded-full bg-text_gradient py-3 lg:py-4 border-clip-text border-border bg-clip-text text-transparent gap-1 lg:gap-3 flex"
+				  >Hire me <img src="/images/arrowup.png" alt="" class="w-2"  />
 				</Button>
 			  </div>
 		</div>
