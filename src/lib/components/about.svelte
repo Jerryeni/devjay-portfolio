@@ -6,7 +6,7 @@
 	<div
 		class="flex flex-col lg:flex-row w-full justify-between items-center py-10 gap-8 relative  object-contain"
 	>
-		<div class="w-full object-fit relative">
+		<div class="w-full object-fit relative md:block hidden">
 			<img src="/images/line2.png" class="object-cover absolute hidden md:block right-0 bottom-[50%]" alt="man wearing glass" />
 			<img src="/images/img-1.png" class="object-cover" alt="man wearing glass" />
 		</div>
