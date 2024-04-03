@@ -46,7 +46,7 @@
 
       <img
         src="/images/line2.png"
-        class="object-cover absolute right-0 bottom-[50%]"
+        class="object-cover absolute hidden md:block right-0 bottom-[50%]"
         alt="man wearing glass"
       />
     </div>
