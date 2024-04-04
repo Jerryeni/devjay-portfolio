@@ -1,7 +1,7 @@
 <script>
   import About from "$lib/components/about.svelte";
   import Contact from "$lib/components/contact.svelte";
-import Hero from "$lib/components/hero.svelte";
+  import Hero from "$lib/components/hero.svelte";
   import Projects from "$lib/components/projects.svelte";
   import Services from "$lib/components/services.svelte";
   import Skills from "$lib/components/skills.svelte";
@@ -13,13 +13,15 @@ import Hero from "$lib/components/hero.svelte";
   // Aos
 </script>
 
-<Hero />
-<Socials />
-<About />
-<Services/>
-<Skills />
-<Tech />
-<Projects />
-<Contact />
-<Testimonies />
-<Footer />
+<div class="w-full h-full overflow-hidden">
+  <Hero />
+  <Socials />
+  <About />
+  <Services />
+  <Skills />
+  <Tech />
+  <Projects />
+  <Contact />
+  <Testimonies />
+  <Footer />
+</div>

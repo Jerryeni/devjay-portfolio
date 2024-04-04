@@ -6,8 +6,8 @@
 	<div
 		class="flex flex-col lg:flex-row w-full justify-between items-center py-10 gap-8 relative  object-contain"
 	>
-		<div class="w-full object-fit relative md:block hidden">
-			<img src="/images/line2.png" class="object-cover absolute hidden md:block right-0 bottom-[50%]" alt="man wearing glass" />
+		<div class="w-full object-fit relative md:block">
+			<img src="/images/line2.png" class="object-cover absolute md:block right-0 bottom-[50%]" alt="man wearing glass" />
 			<img src="/images/img-1.png" class="object-cover" alt="man wearing glass" />
 		</div>
 		<div class="lg:text-left text-center w-full">
@@ -15,7 +15,7 @@
 				About me
 			</h1>
 
-			<p class=" text-md leading-8">
+			<p class=" text-sm leading-5">
 				Our tech hackathon is a melting pot of visionaries, and its purpose is as clear as day: to
 				shape the future. Whether you're a coding genius, a design maverick, or a concept wizard,
 				you'll have the chance to transform your ideas into reality. Solving real-world problems,
@@ -23,7 +23,7 @@
 				that's what we're all about!
 			</p>
 			<p>&nbsp; </p>
-			<p class=" text-md leading-8">
+			<p class=" text-sm leading-5">
 				Our tech hackathon is a melting pot of visionaries, and its purpose is as clear as day: to
 				shape the future. Whether you're a coding genius, a design maverick, or a concept wizard,
 				you'll have the chance to transform your ideas into reality. Solving real-world problems,
