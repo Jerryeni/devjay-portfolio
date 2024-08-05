@@ -1,4 +1,4 @@
-<section class="grid grid-cols-1 lg:grid-cols-3 items-center p-6 lg:p-20 text-white">
+<section class="grid grid-cols-1 lg:grid-cols-3 items-center p-6 lg:p-20 text-white" id="skills">
   <div class="space-y-8">
     <h1 class="lg:text-[49px] text-[38px] bg-text_gradient px-2 font-medium bg-clip-text text-transparent">
         Technical skills
@@ -17,20 +17,12 @@
     </p> 
     <p class="flex gap-3 items-center">
         <img src="/images/Group.png" alt="">
-        <span>DevOps and Deployment</span>
-    </p>
-    <p class="flex gap-3 items-center">
-        <img src="/images/Group.png" alt="">
-        <span>Security</span>
-    </p>
-    <p class="flex gap-3 items-center">
-        <img src="/images/Group.png" alt="">
         <span>Testing</span>
     </p>
   </div>
   <div class="mt-10">
     <img src="/images/Union.png" class="animate- py-4 w-10
-     lg:w-full" alt="">
+     lg:w-60" alt="">
   </div>
   <div class="space-y-8">
     <h1 class="lg:text-[49px] text-[38px] bg-text_gradient px-2 font-medium bg-clip-text text-transparent">

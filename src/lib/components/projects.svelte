@@ -2,7 +2,7 @@
   import ProjectCard from "./project-card.svelte";
 
 </script>
-<section class="p-6 lg:p-20 py-20 text-white">
+<section class="p-6 lg:p-20 py-20 text-white" id="projects">
   <div class="md:flex-row flex flex-col gap-10 items-center w-full py-10">
     <h2 class="text-[39px] font-bold w-full md:w-1/2 text-center md:text-left">
       Some projects I have worked on

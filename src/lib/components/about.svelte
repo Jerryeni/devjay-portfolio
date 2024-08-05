@@ -2,7 +2,7 @@
 	import { Button } from 'flowbite-svelte';
 </script>
 
-<section class="w-full text-white flex flex-col px-6 lg:px-40  relative bg-primary-500 mt-0">
+<section class="w-full text-white flex flex-col px-6 lg:px-40  relative bg-primary-500 mt-0" id="about">
 	<div
 		class="flex flex-col lg:flex-row w-full justify-between items-center py-10 gap-8 relative  object-contain"
 	>
@@ -15,21 +15,15 @@
 				About me
 			</h1>
 
-			<p class="text-sm leading-5">
-				Our tech hackathon is a melting pot of visionaries, and its purpose is as clear as day: to
-				shape the future. Whether you're a coding genius, a design maverick, or a concept wizard,
-				you'll have the chance to transform your ideas into reality. Solving real-world problems,
-				pushing the boundaries of technology, and creating solutions that can change the world,
-				that's what we're all about!
-			</p>
-			<p>&nbsp; </p>
-			<p class=" text-sm leading-5">
-				Our tech hackathon is a melting pot of visionaries, and its purpose is as clear as day: to
-				shape the future. Whether you're a coding genius, a design maverick, or a concept wizard,
-				you'll have the chance to transform your ideas into reality. Solving real-world problems,
-				pushing the boundaries of technology, and creating solutions that can change the world,
-				that's what we're all about!
-			</p>
+			<div class="font-thin text-sm">
+				<p class="mb-4">Hello! I'm <strong>Jeremiah Eni</strong>, a graduate of Electronics and Computer Engineering from the University of Nigeria. I'm a frontend developer passionate about crafting beautiful and functional web experiences.</p>
+				<p class="mb-4">With a background in Frontend technologies like HTML, CSS and JavaScript with modern frameworks like Reactjs, Nextjs, Sveltejs, Tailwindcss, bootstrap with nodejs and php for some backend,. I transitioned into frontend development to combine my love for technology and design. I specialize in creating responsive, user-friendly web applications using technologies like HTML, CSS, JavaScript, React.js, Next.js, Svelte, Tailwind CSS, and Bootstrap.</p>
+				<p class="mb-4">My goal is to deliver exceptional user experiences that are both functional and visually appealing. I believe in the power of well-designed interfaces and efficient code to create products that users love.</p>
+				<p class="mb-4">When I'm not coding, you can find me playing guiter, piano, reading, exploring new technologies, which help me stay creative and inspired. I'm always looking for new challenges and opportunities to grow both personally and professionally.</p>
+				<p class="mb-4">I'm excited to continue growing as a developer and to create impactful web experiences that make a difference.</p>
+			</div>
+
+			
 			<div class="mt-6 lg:mt-6 flex flex-row space-x-3 lg:space-x-6 max-lg:justify-center">
 				<Button
 				  color="light"

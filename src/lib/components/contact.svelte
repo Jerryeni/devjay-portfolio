@@ -6,31 +6,31 @@
 
 <div
   class="px-4 sm:px-10 py-10 lg:px-10 xl:px-20 lg:py-20 flex flex-col lg:flex-row items-center gap-6 md:gap-8 bg-[url('/images/tech.jpg')] bg-no-repeat"
->
-  <div class="lg:w-1/2 w-full text-white flex flex-col relative gap-8">
+  id="contact">
+  <div class="lg:w-1/2 w-full text-white flex flex-col relative gap-8" >
     <h1 class="font-bold md:text-[32px] text-[28px] lg:text-[49px]">Let’s discuss your project</h1>
     <div class="flex gap-8 flex-col">
       <div class="flex gap-3 items-center">
         <img src="/images/contact.png" alt="" />
         <div class="flex flex-col">
           <p>Call me</p>
-          <p class="font-bold">+234-814-732-9946</p>
+          <p class="font-bold">+234-816-631-4056</p>
         </div>
       </div>
       <div class="flex gap-3 items-center">
         <img src="/images/contact2.png" alt="" />
         <div class="flex flex-col">
           <p>Email</p>
-          <p class="font-bold">delordemm1@gmail.com</p>
+          <p class="font-bold">jerryeni3@gmail.com</p>
         </div>
       </div>
       <div class="flex gap-3 items-center">
         <img src="/images/contact3.png" alt="" />
         <div class="flex flex-col">
           <p>Location</p>
-          <p class="font-bold">Nsukka, Enugu state, Nigeria</p>
+          <p class="font-bold">Onitsha, Anambra state, Nigeria</p>
         </div>
-      </div>
+      </div> 
     </div>
     <div class="flex gap-6">
       <img src="/images/facebook.png" alt="" />

@@ -4,7 +4,7 @@
 </script>
 
 <section
-  class="flex lg:pl-10  flex-col gap-8  relative"
+  class="flex lg:pl-10  flex-col gap-8  relative" id="services"
 >
     <div class="py-4 p-6">
       <h2 class="text-[28px] lg:text-[39px] font-bold  text-white text-center">
