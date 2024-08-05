@@ -3,7 +3,7 @@
 </script>
 
 <div
-  class="bg-secondary-500 bg-center lg:h-fit bg-no-repeat w-full px-6x mt-10x max-h-[800px] md:flex flex-col-reverse items-center justify-center mt-32 lg:flex-row lg:space-x-4"
+  class="bg-secondary-500 bg-center lg:h-fit bg-no-repeat w-full px-6x mt-10x md:flex flex-col-reverse items-center justify-center mt-32 max-h-[800px] lg:flex-row lg:space-x-4"
 >
   <div
     class="max-lg:text-center lg:pl-20 place-self-center w-full lg:w-1/2 lg:space-y-8 text-white"
