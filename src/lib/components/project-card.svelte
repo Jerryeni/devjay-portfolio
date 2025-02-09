@@ -9,13 +9,13 @@
   </script>
   
   <a href={link}>
-    <div class="flex flex-col text-white card gap-6 relative">
-      <div class="min-w-[604px] h-[453px] relative overflow-hidden">
-          <img src={image} alt={image} class="object-cover w-full h-[400px]">
+    <div class="flex flex-col text-white card gap-6 relative border rounded-md p-4 border-border/40 h-[500px]">
+      <div class="object-contain relative overflow-hidden">
+          <img src={image} alt={image} class="object-cover w-full h-[300px]">
       </div>
       
         <div class="flex flex-col">
-            <h2 class="text-[28px] bg-text_gradient px-2 font-medium bg-clip-text text-transparent">{title}</h2>
+            <h2 class="text-[20px] bg-text_gradient font-medium bg-clip-text text-transparent">{title}</h2>
             <p class="text-md text-white opacity-90">{content}</p>
         </div>
     
@@ -26,11 +26,7 @@
               >visit <img src="/images/arrowup2.png" class="w-4 h-4" alt="" />
               </a
             >
-            <a
-              href={link}
-              class=" px-8 rounded-full bg-text_gradient py-3 border-clip-text border border-border bg-clip-text text-transparent  gap-3 flex"
-              >Hire me <img src="/images/arrowup.png" class="w-4 h-4" alt="" />
-            </a>
+            
         </div>
     </div>
   </a>

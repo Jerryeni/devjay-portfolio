@@ -15,13 +15,13 @@
 				About me
 			</h1>
 
-			<div class="font-thin text-sm">
-				<p class="mb-4">Hello! I'm <strong>Jeremiah Eni</strong>, a graduate of Electronics and Computer Engineering from the University of Nigeria. I'm a frontend developer passionate about crafting beautiful and functional web experiences.</p>
-				<p class="mb-4">With a background in Frontend technologies like HTML, CSS and JavaScript with modern frameworks like Reactjs, Nextjs, Sveltejs, Tailwindcss, bootstrap with nodejs and php for some backend,. I transitioned into frontend development to combine my love for technology and design. I specialize in creating responsive, user-friendly web applications using technologies like HTML, CSS, JavaScript, React.js, Next.js, Svelte, Tailwind CSS, and Bootstrap.</p>
-				<p class="mb-4">My goal is to deliver exceptional user experiences that are both functional and visually appealing. I believe in the power of well-designed interfaces and efficient code to create products that users love.</p>
-				<p class="mb-4">When I'm not coding, you can find me playing guiter, piano, reading, exploring new technologies, which help me stay creative and inspired. I'm always looking for new challenges and opportunities to grow both personally and professionally.</p>
-				<p class="mb-4">I'm excited to continue growing as a developer and to create impactful web experiences that make a difference.</p>
-			</div>
+			<article class="font-thin text-sm">
+				<p class="mb-4">Hello! I’m Jeremiah Eni, a Fullstack Developer with a background in Electronics and Computer Engineering from the University of Nigeria. My passion lies in building beautiful, functional, and scalable web experiences that merge design with seamless functionality..</p>
+				<p class="mb-4">With expertise in frontend technologies like HTML, CSS, JavaScript, React.js, Next.js, Svelte, Tailwind CSS, and Bootstrap, I craft intuitive, high-performance user interfaces. I also have experience with backend technologies such as Node.js and PHP, enabling me to build fullstack applications that deliver smooth and efficient user experiences.</p>
+				<p class="mb-4">My goal is to develop responsive, user-friendly web applications that not only look great but also provide an exceptional user experience. I believe in the power of well-structured code and thoughtful design to create impactful digital products.</p>
+				<p class="mb-4">When I’m not coding, you’ll find me playing the guitar or piano, reading, or exploring new technologies to stay creative and inspired. I’m always open to new challenges and opportunities to grow both personally and professionally.</p>
+				<p class="mb-4">I'm excited to continue growing as a developer and to create impactful web experiences that make a difference. Let’s connect and create something amazing!</p>
+			</article>
 
 			
 			<div class="mt-6 lg:mt-6 flex flex-row space-x-3 lg:space-x-6 max-lg:justify-center">

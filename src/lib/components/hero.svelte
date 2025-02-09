@@ -23,11 +23,7 @@
     <p
       class="mt-2 lg:mt-6 max-lg:p-5 md:text-lg px-2  !text-primary-700 text-sm font-thin max-md:px-8 max-lg:px-16" data-aos="slide-right"
     >
-      Passionate Frontend developer with a knack for crafting efficient and
-      innovative solutions. Proficient in both front-end and back-end
-      technologies, I bring creativity and technical expertise to every project.
-      With a focus on clean code and user-centric design, I strive to create
-      seamless digital experiences. Let's build something amazing together.
+    Passionate Fullstack Developer with a strong foundation in frontend and backend technologies. I specialize in crafting efficient, scalable, and innovative web solutions with clean code and intuitive user experiences. With an eye for design and a problem-solving mindset, I build seamless digital products that merge creativity with functionality. Let’s create something impactful together!
     </p>
     <div class="mt-6 lg:mt-6 flex flex-row space-x-3 lg:space-x-3 max-lg:justify-center">
       <Button data-aos="fade-left"

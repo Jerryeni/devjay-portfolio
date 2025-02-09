@@ -12,20 +12,20 @@
     class="relative grid grid-cols-1 md:grid-cols-2 w-full gap-10 items-center justify-center lg:p-10 mx-auto"
   >
     <div class="flex flex-col gap-4">
-      <Progress name="React" percent="80%" style="width: 80%" />
-      <Progress name="Typescript" percent="60%" style="width: 60%" />
-      <Progress name="HTML" percent="80%" style="width: 80%" />
-      <Progress name="CSS" percent="80%" style="width: 80%" />
-      <Progress name="Bootstrap" percent="80%" style="width: 80%" />
-      <Progress name="Tailwind" percent="80%" style="width: 80%" />
+      <Progress name="React"  />
+      <Progress name="Typescript"  />
+      <Progress name="HTML"  />
+      <Progress name="CSS"  />
+      <Progress name="Bootstrap"  />
+      <Progress name="Tailwind"  />
     </div>
     <div class="flex flex-col gap-4">
-      <Progress name="Nextjs" percent="80%" style="width: 80%" />
-      <Progress name="PHP" percent="60%" style="width: 60%" />
-      <Progress name="Javascript" percent="80%" style="width: 80%" />
-      <Progress name="Svelte" percent="80%" style="width: 80%" />
-      <Progress name="Alpinejs" percent="80%" style="width: 80%" />
-      <Progress name="Nodejs" percent="60%%" style="width: 60%" />
+      <Progress name="Nextjs"  />
+      <Progress name="PHP"  />
+      <Progress name="Javascript"  />
+      <Progress name="Svelte"  />
+      <Progress name="Alpinejs"  />
+      <Progress name="Nodejs"  />
     </div>
     
   </div>

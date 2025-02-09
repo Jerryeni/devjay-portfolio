@@ -7,7 +7,7 @@
 <div class="flex flex-col gap-y-2">
   <div class="flex text-white justify-between">
     <p>{name}</p>
-    <p>{percent}%</p>
+    <p>{percent}</p>
   </div>
 
   <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
