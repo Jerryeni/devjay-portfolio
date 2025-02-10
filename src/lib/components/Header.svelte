@@ -36,20 +36,20 @@
       <a href="/cv.pdf" download class="">
         <div class="">Download Resume</div>
       </a>
-      <a href="/" class="">
-        <div class="/contact">Contact</div>
+      <a href="#contact" class="">
+        <div class="">Contact</div>
       </a>
-      <a href="/about">
+      <a href="#about">
         <div class="">About</div>
       </a>
-      <a href="/about">
-        <div class="">Portfolio</div>
+      <a href="#projects">
+        <div class="">Projects</div>
       </a>
     
       <a href="#contact" color="light" class="px-10 items-center rounded-full bg-text_gradient py-3 border-border border bg-clip-text text-transparent gap-3 flex">Hire me <img src="/images/arrowup.png" alt="" class="w-fit h-fit"> </a>
     </div>
     <div class="w-fit md:hidden max-lg:flex max-lg:flex-row max-lg:space-x-5 lg:justify-end items-center">
-      <Button color="light" class="px-8 text-nowrap rounded-full bg-text_gradient py-1 border-border border bg-clip-text text-transparent text-[12px] w-fit gap-3 flex">Hire me</Button>
+      <a href="#contact" color="light" class="px-10 items-center rounded-full bg-text_gradient py-3 border-border border bg-clip-text text-transparent gap-3 flex">Hire me <img src="/images/arrowup.png" alt="" class="w-fit h-fit"> </a>
       <button on:click={toggleMenu} class="text-white focus:outline-none">
         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>

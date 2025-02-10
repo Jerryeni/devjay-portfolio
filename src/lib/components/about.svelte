@@ -25,16 +25,12 @@
 
 			
 			<div class="mt-6 lg:mt-6 flex flex-row space-x-3 lg:space-x-6 max-lg:justify-center">
-				<Button
+				<!-- <Button
 				  color="light"
 				  class=" px-10 rounded-full bg-text_gradient py-3 lg:py-4 border-none gap-1 lg:gap-3 flex"
 				  >Contact me <img src="/images/arrowup2.png" alt="" class="w-2"/></Button
-				>
-				<Button
-				  color="light"
-				  class=" lg:px-10 px-6 rounded-full bg-text_gradient py-3 lg:py-4 border-clip-text border-border bg-clip-text text-transparent gap-1 lg:gap-3 flex"
-				  >Hire me <img src="/images/arrowup.png" alt="" class="w-2"  />
-				</Button>
+				> -->
+				<a href="#contact" color="light" class="px-10 items-center rounded-full bg-text_gradient py-3 border-border border bg-clip-text text-transparent gap-3 flex">Hire me <img src="/images/arrowup.png" alt="" class="w-fit h-fit"> </a>
 			  </div>
 		</div>
 	</div>

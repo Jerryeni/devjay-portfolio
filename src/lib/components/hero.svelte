@@ -17,7 +17,7 @@
         class="bg-text_gradient px-2 font-medium bg-clip-text text-transparent"
         >Jeremiah Eni</span
       > <br />
-      A FullStack devloper
+      A FullStack Developer
     </h1>
     <!-- <h2 class="mt-1"></h2> -->
     <p
