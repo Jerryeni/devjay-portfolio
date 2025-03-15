@@ -19,7 +19,7 @@
       <ProjectCard image="/images/swiftvote.png" title="Swiftvote" content="A platform that allows you to host and participate in elections, integrated into blockchain technology to ensure end-to-end verifiability, transparency and safety" link="https://www.swiftvote.io/"/>
     </a>
     <a href="https://yoamart.com/" target="_blank">
-      <ProjectCard image="/images/yoamart.png" title="Yoamart" content="Online grocery shopping center-- Bringing you a seamless shopping experience for every need—online or in-store." link="https://yoamart.com/"/>
+      <ProjectCard image="/images/yoa.png" title="Yoamart" content="Online grocery shopping center-- Bringing you a seamless shopping experience for every need—online or in-store." link="https://yoamart.com/"/>
     </a>
     <a href="https://www.immigrationservicesonbudget.com/" target="_blank">
       <ProjectCard image="/images/isob.png" title="Immigration Service On Budget" content="At Immigration Services on Budget, we are committed to helping you realize your dream of immigrating to Canada without breaking the bank. " link="https://www.immigrationservicesonbudget.com/"/>
@@ -27,8 +27,11 @@
     <a href="https://www.cloudpaddie.com" target="_blank">
       <ProjectCard image="/images/cloudpaddie.png" title="Cloudpaddie" content="Cloud Paddie is home to experienced and thoroughly vetted cloud talents. We provide you with the most qualified professionals to bring your project to its desired conclusion. " link="https://www.cloudpaddie.com"/>
     </a>
-    <a href="https://techprojectonbudget.com" target="_blank">
+    <!-- <a href="https://techprojectonbudget.com" target="_blank">
       <ProjectCard image="/images/tpob.png" title="Tech Project On Budget" content="Tech Project On Budget is a full-service IT consulting firm that provides a wide range of IT services to businesses of all sizes. " link="https://techprojectonbudget.com"/>
+    </a> -->
+    <a href="https://devjay-portfolio.pages.dev/" target="_blank">
+      <ProjectCard image="/images/portfolio.png" title="Devjay Portfolio" content="Devjay Portfolio is a portfolio website that showcases my work and skills. It is built using Svelte and Tailwind CSS." link="https://devjay-portfolio.pageable.io/"/>
     </a>
     <a href="https://ucchain.org/" target="_blank">
       <ProjectCard image="/images/ucc.png" title="Universe Chain" content="Universe Chain is a blockchain development company that specializes in creating custom blockchain solutions for businesses of all sizes. " link="https://ucchain.org/"/>
