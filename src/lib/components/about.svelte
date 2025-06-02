@@ -1,6 +1,12 @@
 <script>
 	import { Button } from 'flowbite-svelte';
 </script>
+<svelte:head>
+  <title>About Me – Jeremiah Eni</title>
+  <meta name="description" content="Learn more about Jeremiah Eni, a fullstack developer skilled in Svelte, React, nodejs and modern web development." />
+  <link rel="canonical" href="https://devjay-portfolio.pages.dev/#about" />
+</svelte:head>
+
 
 <section class="w-full text-white flex flex-col px-6 lg:px-40  relative bg-primary-500 mt-0" id="about">
 	<div
