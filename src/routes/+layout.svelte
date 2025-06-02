@@ -12,7 +12,7 @@
 <svelte:head>
   <title>Jeremiah Eni – Full Stack Developer | Portfolio</title>
   <meta name="description" content="Explore the portfolio of Jeremiah Eni, a skilled Fullstack developer specializing in Svelte, React, JavaScript, and modern UI design." />
-  <meta name="keywords" content="Fullstack Developer, Svelte, JavaScript Developer, Web Developer, Portfolio, Jeremiah Eni, React, Tailwind" />
+  <meta name="keywords" content="Fullstack Developer, Svelte, JavaScript Developer, Web Developer, Portfolio, Jeremiah Eni, React, Tailwind, nodejs, Next.js, SvelteKit, frontend developer" />
   <meta name="author" content="Jeremiah Eni" />
   <link rel="canonical" href="https://devjay-portfolio.pages.dev/" />
 
